@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="580.0" prefWidth="680.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MainFXMLController">
+   <children>
+      <ImageView fitHeight="580.0" fitWidth="680.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/background.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="b11" layoutX="194.0" layoutY="151.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i11" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b16" layoutX="401.0" layoutY="152.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i16" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b12" layoutX="277.0" layoutY="131.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i12" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b13" layoutX="361.0" layoutY="115.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i13" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b15" layoutX="316.0" layoutY="170.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i15" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b14" layoutX="236.0" layoutY="185.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i14" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b19" layoutX="448.0" layoutY="188.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i19" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b18" layoutX="363.0" layoutY="205.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i18" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b17" layoutX="273.0" layoutY="222.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i17" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b27" layoutX="283.0" layoutY="359.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i27" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b28" layoutX="360.0" layoutY="342.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i28" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b29" layoutX="447.0" layoutY="323.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i29" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b24" layoutX="229.0" layoutY="326.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i24" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b25" layoutX="314.0" layoutY="308.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i25" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b23" layoutX="361.0" layoutY="256.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i23" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b22" layoutX="282.0" layoutY="272.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i22" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b26" layoutX="400.0" layoutY="291.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i26" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b21" layoutX="194.0" layoutY="291.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i21" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b31" layoutX="194.0" layoutY="424.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i31" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b36" layoutX="400.0" layoutY="424.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i36" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b32" layoutX="282.0" layoutY="405.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i32" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b33" layoutX="361.0" layoutY="389.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i33" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b35" layoutX="314.0" layoutY="441.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i35" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b34" layoutX="229.0" layoutY="459.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i34" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b39" layoutX="447.0" layoutY="456.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i39" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b38" layoutX="360.0" layoutY="475.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i38" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Button fx:id="b37" layoutX="283.0" layoutY="492.0" mnemonicParsing="false">
+         <graphic>
+            <ImageView fx:id="i37" fitHeight="39.0" fitWidth="43.0" pickOnBounds="true" preserveRatio="true" />
+         </graphic>
+      </Button>
+      <Label layoutX="32.0" layoutY="23.0" prefHeight="47.0" prefWidth="137.0" text="Player 1 :" textFill="RED">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="32.0" layoutY="69.0" prefHeight="47.0" prefWidth="137.0" text="Player 2 :" textFill="#2205c6">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="32.0" />
+         </font>
+      </Label>
+      <Label fx:id="player1score" layoutX="183.0" layoutY="23.0" prefHeight="47.0" prefWidth="82.0">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="32.0" />
+         </font>
+      </Label>
+      <Label fx:id="player2score" layoutX="183.0" layoutY="69.0" prefHeight="47.0" prefWidth="82.0">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="32.0" />
+         </font>
+      </Label>
+      <Button fx:id="again" defaultButton="true" layoutX="564.0" layoutY="527.0" mnemonicParsing="false" text="Play Again" textOverrun="CLIP" visible="false">
+         <font>
+            <Font name="Times New Roman" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="reset" defaultButton="true" layoutX="564.0" layoutY="23.0" mnemonicParsing="false" text="Reset Game" textOverrun="CLIP">
+         <font>
+            <Font name="Times New Roman" size="13.0" />
+         </font>
+      </Button>
+      <Label fx:id="turn" layoutX="551.0" layoutY="55.0" prefHeight="47.0" prefWidth="109.0" text="Player 1 turn" textFill="RED">
+         <font>
+            <Font name="Times New Roman Bold Italic" size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
